@@ -57,8 +57,8 @@
 <br>
 <br>
 <p align=center>
-  <a href="https://www.codewars.com/users/Gonzoooo">
-    <img src="https://www.codewars.com/users/Gonzoooo/badges/large" alt="Codewars Badge">
+  <a href="https://www.codewars.com/users/olhasmy">
+    <img src="https://www.codewars.com/users/olhasmy/badges/large" alt="Codewars Badge">
   </a>
 </p>
 <p align=center>
