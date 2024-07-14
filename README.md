@@ -63,6 +63,6 @@
 </p>
 <p align=center>
   <a href="https://www.codewars.com/users/Gonzoooo">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gonzoooo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olhasmy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
   </a>
 </p>
