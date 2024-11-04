@@ -1,12 +1,9 @@
-<h1 align=center>👋 Hi there! I'm Olga</h1>
-
-💻 I'm currently studying TypeScript
-
-🤝 I would like to work in a team with experienced colleagues
-
-🆕 I'm ready to learn new technologies 
-
-
+<h2 align=center>Hi there! I'm Olga</h1>
+<br>
+<div align="center">
+💻&nbsp;&nbsp;&nbsp;I enjoy learning new technologies
+<br>
+</div>
 
 <h2 align=center>Languages & Tools:</h2>
 <br>
@@ -21,17 +18,11 @@
 <a href="https://262.ecma-international.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50">
 </a>
-<a href="https://www.typescriptlang.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50">
-</a>
 <a href="https://sass-lang.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50">
 </a>
 <a href="https://ru.reactjs.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50">
-</a>
-<a href="https://redux.js.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="50">
 </a>
 <a href="https://www.jetbrains.com/ru-ru/webstorm/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="50">
@@ -39,15 +30,6 @@
 <a href="https://www.figma.com/">
   <img src="https://user-images.githubusercontent.com/75899222/215489461-e2dbebf6-87d1-41a0-81b2-d29721fb5f52.png" width="50">
 </a> 
-<a href="https://nodejs.org/en/about/">
-  <img src="https://user-images.githubusercontent.com/75899222/215486261-38b0a350-06ad-4e63-a645-757a605300bd.png" width="50">
-</a>
-<a href="https://expressjs.com/">
-  <img src="https://user-images.githubusercontent.com/75899222/215487583-c716d127-c9d1-401b-a2d4-0b5191879116.png" width="50">
-</a>
-<a href="https://www.mongodb.com/">
-  <img src="https://user-images.githubusercontent.com/75899222/215488257-c0ddac6f-23fc-42f3-b092-5b1d60a6c45f.png" width="50">
-</a>
 <a href="https://www.postman.com/" style="display:block;margin:auto">
   <img src="https://user-images.githubusercontent.com/75899222/215488881-eb7fcebe-8634-427a-ab52-ca82ec618afe.png" width="50">
 </a>
